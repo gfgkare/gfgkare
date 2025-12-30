@@ -1,4 +1,4 @@
-# 👑 GFG KARE Student Chapter
+# 👑 GFG CAMPUS BODY KARE
 
 Welcome to the official GitHub repository of **GFG KARE Student Chapter**!  
 We are the student community of [GeeksforGeeks](https://www.geeksforgeeks.org/) at **Kalasalingam Academy of Research and Education (KARE)**.  
